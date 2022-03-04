@@ -1,21 +1,21 @@
 # Issue guidelines
 
-This repository's [CONTRIBUTING.md](CONTRIBUTING.md) provides a generic set of
-guidelines for developers to adapt and include in their own GitHub
-repositories, thereby taking advantage of [GitHub's integration with
+Файл [CONTRIBUTING.md](CONTRIBUTING.md) этой репозитории предоставляет общий набор
+рекомендации для разработчиков по адаптации и включению в свой собственный GitHub
+репозиторий, тем самым воспользовавшись [GitHub's integration with
 contributing guidelines](https://github.com/blog/1184-contributing-guidelines).
 
-The section below can be included in your README to improve the visibility of
-your contribution guidelines.
+Раздел ниже может быть включен в ваш README, чтобы улучшить видимость
+ваших рекомендаций по контрибуции.
 
-If you think this guide can be improved, please let me know.
+Если вы считаете, что это руководство можно улучшить, дайте мне знать.
 
 
 ## Contributing to this project
 
-Anyone and everyone is welcome to contribute. Please take a moment to
-review the [guidelines for contributing](CONTRIBUTING.md).
+Любой и каждый может внести свой вклад. Пожалуйста, найдите минутку, чтобы
+ознакомиться с [инструкцией по контрибуции](CONTRIBUTING.md).
 
-* [Bug reports](CONTRIBUTING.md#bugs)
-* [Feature requests](CONTRIBUTING.md#features)
+* [Отчёты о багах](CONTRIBUTING.md#bugs)
+* [Нововведения](CONTRIBUTING.md#features)
 * [Pull requests](CONTRIBUTING.md#pull-requests)
