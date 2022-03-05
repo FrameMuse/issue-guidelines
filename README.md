@@ -1,3 +1,5 @@
+_Это машиный перевод_
+
 # Issue guidelines
 
 Файл [CONTRIBUTING.md](CONTRIBUTING.md) этой репозитории предоставляет общий набор
